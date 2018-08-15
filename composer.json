@@ -1,5 +1,5 @@
 {
-    "name": "nikic/php-parser",
+    "name": "bueno-networks/php-parser",
     "description": "A PHP parser written in PHP",
     "keywords": ["php", "parser"],
     "type": "library",
